@@ -7,5 +7,11 @@ zombiegame-0.0.1+build.2
 zombiegame-0.0.1+build.3
 更新版本描述
 
-zombiegame-0.0.1+build.4
-更新版本文件名称
+zombiegame-1.20.1-0.0.1+build.4
+更新构建文件名称
+
+zombiegame-1.20.1-0.0.1+build.5
+更新版本名称
+
+zombiegame-1.20.1-0.0.1+build.6
+修复构建文件名称
