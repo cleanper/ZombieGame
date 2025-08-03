@@ -15,3 +15,12 @@ zombiegame-1.20.1-0.0.1+build.5
 
 zombiegame-1.20.1-0.0.1+build.6
 修复版本描述
+
+zombiegame-1.20.1-0.0.1+build.7
+更新Forge版本
+
+zombiegame-1.20.1-0.0.1+build.8
+更新版本描述
+
+zombiegame-1.20.1-0.0.1+build.9
+更新Forge到47.4.5版本
